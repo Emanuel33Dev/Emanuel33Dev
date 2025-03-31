@@ -20,10 +20,10 @@
 
 <br clear="both">
   <a href="https://www.linkedin.com/in/vitor-emanuel-73564725b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="29" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="29" alt="linkedin logo"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox\vitoremanuel7171@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="29" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="29" alt="gmail logo"/>
   </a>
 </div>
 
