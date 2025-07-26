@@ -1,31 +1,26 @@
-<h1 align="left">Oi, eu sou o Emanuel! 💻❤</h1>
+<h1 align="left">Oi, eu sou o Emanuel! 💻🔒</h1>
 
 ###
 
-<h3 align="left">Seja bem-vindo ao meu mundo 🌎💻</h3>
-
-###
+<h3 align="left">Seja bem-vindo ao meu mundo 🌎🛡️</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="bash logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
 </div>
 
 ###
 
 <br clear="both">
-  <a href="https://www.linkedin.com/in/vitor-emanuel-73564725b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="29" alt="linkedin logo"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox\vitoremanuel7171@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="29" alt="gmail logo"/>
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/vitor-emanuel-73564725b/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="29" alt="linkedin logo"/>
+</a>
 
 ###
 
@@ -42,5 +37,3 @@
 <div align="center">
   <img height="151" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdzeDd4endpcG9mZjBwMTRlZHk0anBlMTh3dzVrM3IxdmJrem9zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
 </div>
-
-###
