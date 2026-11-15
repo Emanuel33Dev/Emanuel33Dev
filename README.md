@@ -18,7 +18,6 @@
 
 <br clear="both">
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="29" alt="linkedin logo"/>
 </a>
 
 ###
